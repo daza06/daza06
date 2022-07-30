@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @daza06
-- 👀 I’m interested in becoming more familiar with Github and VS code
 - 🌱 I’m currently learning web development
 - 📫 You can reach me by email or text
 
