@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Zavala!
-- 🌱 I’m currently going through a coding bootcamp and learning web development
+- 🌱 I’m currently learning web development
 - 📫 You can reach me by email or text
 
 <!---
